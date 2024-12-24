@@ -1,2 +1,2 @@
 # ads
-App ads finance
+App ads finance :)
